@@ -1,4 +1,4 @@
-# 🌟 Introdução ao Kotlin
+#  Introdução ao Kotlin
 
 Kotlin é uma linguagem moderna e poderosa que oferece uma série de vantagens para desenvolvedores. Vamos explorar o que torna Kotlin uma excelente escolha para seus projetos!
 
@@ -15,7 +15,7 @@ Kotlin é uma linguagem moderna e poderosa que oferece uma série de vantagens p
 - **Anunciada em 2017 pela Google como linguagem oficial do sistema Android**: Reconhecimento da sua importância no ecossistema Android.
 - **Compila para uma máquina virtual Java ☕**: Integra-se perfeitamente com o ecossistema Java.
 
-## 🌍 Onde é Usado
+## Onde é Usado
 
 ### 📱 Android
 
@@ -32,7 +32,7 @@ Kotlin é uma linguagem moderna e poderosa que oferece uma série de vantagens p
 - **Uma forma produtiva de criar aplicações no lado do servidor**: Utilize Kotlin para desenvolvimento backend.
 - **Compatível com ecossistemas da JVM**: Integra-se bem com outras tecnologias Java.
 
-## 🌟 Pontos de Destaque
+## Pontos de Destaque
 
 ### 🚫 Evitam NullPointerExceptions
 
