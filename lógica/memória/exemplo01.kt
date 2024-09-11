@@ -8,4 +8,6 @@ fun main() {
     val age: Int = 31 // 32-bit (99% do tempo)
     val product: String = "iMac"
 
+    //reservando todo espaço do long mesmo usando um número menor
+    val long = 192L
 }
