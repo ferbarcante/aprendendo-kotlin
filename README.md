@@ -1,7 +1,5 @@
-![Group 28(1)](https://github.com/user-attachments/assets/ef75ac83-08e2-4870-98e4-b2926b750fd4)
-**Este repositório contém códigos de exemplo e resumos que ajudam a entender conceitos fundamentais de programação em Kotlin. A estrutura do repositório é organizada da seguinte forma:**
-
-### 📂 Estrutura do Repositório
+![kotlinIMG](https://github.com/user-attachments/assets/997730b3-49ce-4ad1-866f-e51e7be62383)
+## 📂 Estrutura do Repositório
 - **`/lógica`**: Exemplos e resumos sobre a lógica de programação em Kotlin.
   - **`exemplo01.kt`**: Código exemplo ilustrando conceitos básicos de lógica.
   - **`resumo.md`**: Resumo dos principais conceitos de lógica de programação.
